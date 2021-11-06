@@ -1,0 +1,14 @@
+﻿  MainForm.cpp
+  Threads.cpp
+  Winsock_Server.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  Bill_Acceptor.cpp
+  Core.cpp
+G:\GitHub\Vending-Change-Machine\Soft_Test\Filling_Station\Terminal\Core.cpp(1018,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Display.cpp
+  Hopper.cpp
+  Settings.cpp
+  Terminal.cpp
+  Generating Code...
+  Filling_Station.vcxproj -> G:\GitHub\Vending-Change-Machine\Soft_Test\x64\Debug\Filling_Station.exe

@@ -1,0 +1,2 @@
+G:\GitHub\Vending-Change-Machine\Soft_Test\Filling_Station\x64\Debug\FillingStation.MainForm.resources
+G:\GitHub\Vending-Change-Machine\Soft_Test\Filling_Station\x64\Debug\Filling_Station.vcxproj.GenerateResource.cache
