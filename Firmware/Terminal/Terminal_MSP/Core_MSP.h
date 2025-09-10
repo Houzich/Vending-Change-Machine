@@ -131,3 +131,4 @@ void Terminal_Loop(void const * argument);
 }
 #endif
 #endif /*__TERMINAL_CORE_H*/
+

@@ -360,3 +360,4 @@ void NVIC_SetVectorTable(uint32_t NVIC_VectTab, uint32_t Offset);
 void Jump_To_Address_Firmware(uint32_t addr);
 #endif /*__BOOT_FLASH_INTERFACE_H*/
 	   /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

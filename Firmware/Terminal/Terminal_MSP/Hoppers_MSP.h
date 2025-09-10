@@ -84,3 +84,4 @@ namespace HoppersMSPNS
 /* Exported Macros -----------------------------------------------------------*/
 /* Exported functions --------------------------------------------------------*/
 #endif /*__TERMINAL_HOPPERS_MSP_H*/
+

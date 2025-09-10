@@ -111,3 +111,4 @@ uint16_t EE_WriteVariable(uint16_t VirtAddress, uint16_t Data);
 #endif /* __EEPROM_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

@@ -217,3 +217,4 @@ bool HopperCoreClass::isAlarm() {
 	}
 
 }	//HoppersNS
+

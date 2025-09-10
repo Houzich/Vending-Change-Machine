@@ -146,3 +146,4 @@ typedef enum {
 #endif
  
 #endif  // CMSIS_OS2_H_
+

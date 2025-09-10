@@ -169,3 +169,4 @@ void net_debug_init (void) {
   /* This is usually the serial interface or ITM channel. */
 
 }
+
