@@ -70,3 +70,4 @@ public:
 #endif // TERMINAL_USE_WINDOWS
 
 #endif /*__TAMPLATES_H*/
+

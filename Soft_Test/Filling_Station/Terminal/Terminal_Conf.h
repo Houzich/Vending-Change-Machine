@@ -107,3 +107,4 @@ volatile extern bool Slave_Receive_Enable;
 #endif
 
 #endif /*__TERMINAL_H*/
+

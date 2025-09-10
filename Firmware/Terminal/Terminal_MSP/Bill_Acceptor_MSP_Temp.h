@@ -158,3 +158,4 @@ void Bill_Acceptor_MSP_TIM_Init(void);
 }
 #endif
 #endif /*__TERMINAL_BILL_ACCEPTOR_MSP_H*/
+

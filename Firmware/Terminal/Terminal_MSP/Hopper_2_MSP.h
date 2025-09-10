@@ -198,3 +198,4 @@ class HopperMSPClass
 } //namespace Hopper2MSPNS
 
 #endif /*__TERMINAL_HOPPER_2_MSP_H*/
+
