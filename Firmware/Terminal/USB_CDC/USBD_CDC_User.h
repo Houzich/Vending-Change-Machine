@@ -17,3 +17,4 @@ extern const osThreadAttr_t virtual_com_attr;
 void Virtual_COM_Start (void *arg);
 __NO_RETURN void Virtual_COM_Thread (void *arg);
 #endif /*__VIRTUAL_COM*/
+

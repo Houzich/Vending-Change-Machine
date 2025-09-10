@@ -238,3 +238,4 @@ int Send_Hopper_State_ETH(int num);
 
 
 #endif /*__TERMINAL_H*/
+
