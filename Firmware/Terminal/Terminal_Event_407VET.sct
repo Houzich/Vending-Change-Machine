@@ -17,3 +17,4 @@ LR_IROM1 0x08000000 0x00100000  {    ; load region size_region
   }
 }
 
+

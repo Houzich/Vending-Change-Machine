@@ -1,4 +1,4 @@
-﻿  MainForm.cpp
+  MainForm.cpp
   Threads.cpp
   Winsock_Server.cpp
   .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
@@ -12,3 +12,4 @@ G:\GitHub\Vending-Change-Machine\Soft_Test\Filling_Station\Terminal\Core.cpp(101
   Terminal.cpp
   Generating Code...
   Filling_Station.vcxproj -> G:\GitHub\Vending-Change-Machine\Soft_Test\x64\Debug\Filling_Station.exe
+

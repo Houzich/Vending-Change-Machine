@@ -112,3 +112,4 @@ TERMINAL_HandleDisplaysTypeDef *Terminal_Get_HandleDisplay(void);
 #endif
 #endif /*__TERMINAL_DISPLAY_INTERFACE_H*/
 /************************ (C) COPYRIGHT *****END OF FILE****/
+

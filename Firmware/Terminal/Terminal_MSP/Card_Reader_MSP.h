@@ -71,3 +71,4 @@ void Card_Reader_MSP_TIM_Init(void);
 }
 #endif
 #endif /*__TERMINAL_CARD_READER_MSP_H*/
+

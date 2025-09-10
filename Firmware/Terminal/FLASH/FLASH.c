@@ -129,3 +129,4 @@ bool FLASH_Get_Settings(void)
  
 	return true;
 }
+
