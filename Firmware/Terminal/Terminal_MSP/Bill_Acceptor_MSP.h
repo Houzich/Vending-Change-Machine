@@ -134,3 +134,4 @@ namespace BillAcceptorMSPNS
 
 #endif /*__TERMINAL_BILL_ACCEPTOR_MSP_H*/
 
+

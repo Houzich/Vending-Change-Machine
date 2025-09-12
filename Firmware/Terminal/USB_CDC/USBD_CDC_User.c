@@ -192,3 +192,4 @@ bool USBD_CDC0_ACM_SetControlLineState (uint16_t state) {
   return true;
 }
 #endif //!USB_FS_VIRTUAL_COM
+

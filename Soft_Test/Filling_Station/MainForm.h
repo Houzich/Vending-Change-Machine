@@ -2419,3 +2419,4 @@ private: System::Windows::Forms::CheckBox^ checkBox_Enable_Sensor_Hopper2;
 };
 }
 
+

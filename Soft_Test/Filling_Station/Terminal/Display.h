@@ -181,3 +181,4 @@ namespace DisplayNS
 #endif /*__TERMINAL_DISPLAY_INTERFACE_H*/
 /************************ (C) COPYRIGHT *****END OF FILE****/
 
+

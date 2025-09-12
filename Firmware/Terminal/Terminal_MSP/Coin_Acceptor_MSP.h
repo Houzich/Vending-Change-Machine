@@ -61,3 +61,4 @@ TERMINAL_HandleCoinAcceptorTypeDef *Terminal_Get_HandleCoinAcceptor(void);
 #endif
 #endif /*__TERMINAL_COIN_ACCEPTOR_H*/
 
+

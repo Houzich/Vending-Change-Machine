@@ -64,3 +64,4 @@ void debug_usb_status_printf  (usbStatus usb_status) {
 		default: 						 			DEBUG_PRINTF(("ERROR device_info.status. UNKNOWN STATUS!!!\n")); break;
 	}	
 }
+

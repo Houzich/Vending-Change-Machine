@@ -35,3 +35,4 @@ int Send_Request_Settings(void);
 int Send_Bill(uint32_t bill);
 int Send_Request_Button_State(void);
 #endif /*__WINSOCK_SERVER_H*/
+

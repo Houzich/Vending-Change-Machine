@@ -183,3 +183,4 @@ class CoreClass
 extern CoreClass Terminal;
 #endif /*__TERMINAL_CORE_H*/
 
+

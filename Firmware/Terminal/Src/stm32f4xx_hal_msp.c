@@ -261,3 +261,4 @@ void HAL_RTC_MspDeInit(RTC_HandleTypeDef* hrtc)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

@@ -73,3 +73,4 @@ Modbus_CRC16( uint8_t * pucFrame, uint16_t usLen )
     return ( uint16_t )( ucCRCHi << 8 | ucCRCLo );
 }
 
+

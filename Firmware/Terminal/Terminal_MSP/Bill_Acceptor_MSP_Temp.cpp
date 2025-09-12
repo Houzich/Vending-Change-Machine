@@ -358,3 +358,4 @@ void Bill_Acceptor_GPIO_Callback(uint16_t GPIO_Pin)
 		}
 	}
 }
+
